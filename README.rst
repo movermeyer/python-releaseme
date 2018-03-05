@@ -163,11 +163,11 @@ Licensed under `the MIT license`_.
   :target: `Coveralls`_
   :alt: Coveralls results_
 
-.. |pip version| image:: https://pypip.in/v/releaseme/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/releaseme.svg
     :target: https://pypi.python.org/pypi/releaseme
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/releaseme/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/releaseme.svg
     :target: https://pypi.python.org/pypi/releaseme
     :alt: Number of PyPI downloads
 
